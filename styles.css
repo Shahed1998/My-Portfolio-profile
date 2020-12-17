@@ -63,6 +63,8 @@ nav a {
   width: 20%;
   height: 20rem;
   border-radius: 100%;
+  border-bottom: 3px solid #ff0000;
+
 }
 
 .myInfo {
